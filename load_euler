@@ -1,0 +1,8 @@
+#!/bin/bash
+
+module load python
+module load hdf5
+source venv/bin/activate
+
+echo "Loaded libraries and activated python environment."
+
