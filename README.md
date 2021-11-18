@@ -1,4 +1,4 @@
-This is the repository for the work presented in Applied Energy publication Svetozarevic, B., Baumann, C., Muntwiler, S., Di Natale, L., Zeilinger, M.N. and Heer, P., 2021. Data-driven control of room temperature and bidirectional EV charging using deep reinforcement learning: Simulations and experiments. Applied Energy, p.118127.  https://www.sciencedirect.com/science/article/pii/S0306261921014045. The code here was mainly written during the master thesis of C. Baumann at Empa. 
+This is the repository for the work presented in Applied Energy publication Svetozarevic, B., Baumann, C., Muntwiler, S., Di Natale, L., Zeilinger, M.N. and Heer, P., 2021. Data-driven control of room temperature and bidirectional EV charging using deep reinforcement learning: Simulations and experiments. Applied Energy, p.118127.  https://www.sciencedirect.com/science/article/pii/S0306261921014045. The code here was mainly written during the master thesis of C. Baumann at Empa Duebendorf in Switzerland. 
 
 ## Installation
 
